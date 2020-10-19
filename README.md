@@ -4,5 +4,8 @@ This repository contains the different Activated Sludge Models developed between
 
 <strong>1. ASM1, 2d and 3 implemented in BSM1 </strong>  
 
-This implementation of ASM1, 2d and 3 account implemented in the BSM1 layout accounts for 1) reactive settling and 2) electron dependency. The Main developers are: [Xavier Flores-Alsina](https://github.com/xfalsina), Krist V. Gernaey, and [Ulf Jeppsson](https://github.com/ulfjeppsson). The model is described in the following paper authored by the model developers: [Benchmarking biological nutrient removal in wastewater treatment plants: influence of mathematical model assumptions](https://doi.org/10.2166/wst.2012.039
-). This version of the model is adapated to be run in Matlab 2019b.
+This implementation of ASM1, 2d and 3 account implemented in the BSM1 layout accounts for 1) reactive settling and 2) electron dependency. The Main developers are: [Xavier Flores-Alsina](https://github.com/xfalsina), Krist V. Gernaey, and [Ulf Jeppsson](https://github.com/ulfjeppsson). The model is described in the following paper: [Benchmarking biological nutrient removal in wastewater treatment plants: influence of mathematical model assumptions](https://doi.org/10.2166/wst.2012.039). This version of the model is adapated to be run in Matlab 2019b.
+
+<strong>2. ASM1, 2d and 3 implemented in BSM1 (with pH calculations) </strong> 
+
+The previous implementation is upgraded with a aqueous phae chemistry models accounting for 1) ion pairing and 2) activity correction. The latter allow to predict weak-acid base conditions and therefor pH. The main developers are :[Xavier Flores-Alsina](https://github.com/xfalsina), Christian Kazadi Mbamba, Kimberly Solon, Darko Vrecko, Stephan Tait, Damien J Batstone,[Ulf Jeppsson](https://github.com/ulfjeppsson), Krist V Gernaey. The model is described in the following paper: [A plant-wide aqueous phase chemistry module describing pH variations and ion speciation/pairing in wastewater treatment process models](https://doi.org/10.1016/j.watres.2015.07.014). This version of the model is adapated to be run in Matlab 2019b.
