@@ -8,7 +8,7 @@ This implementation of ASM1, 2d and 3 account implemented in the BSM1 layout acc
 
 <strong>2. ASM1, 2d and 3 implemented in BSM1 (with pH calculations) </strong> 
 
-The previous implementation is upgraded with a aqueous phae chemistry models accounting for 1) ion pairing and 2) activity correction. The latter allow to predict weak-acid base conditions and therefor pH. The main developers are :[Xavier Flores-Alsina](https://github.com/xfalsina), Christian Kazadi Mbamba, Kimberly Solon, Darko Vrecko, Stephan Tait, Damien J Batstone,[Ulf Jeppsson](https://github.com/ulfjeppsson), Krist V Gernaey. The model is described in the following paper: [A plant-wide aqueous phase chemistry module describing pH variations and ion speciation/pairing in wastewater treatment process models](https://doi.org/10.1016/j.watres.2015.07.014). This version of the model is adapated to be run in Matlab 2019b.
+The previous implementation is upgraded with a aqueous phae chemistry models accounting for 1) ion pairing and 2) activity corrections. The latter allow to predict weak-acid base conditions and therefor pH. The main developers are :[Xavier Flores-Alsina](https://github.com/xfalsina), Christian Kazadi Mbamba, Kimberly Solon, Darko Vrecko, Stephan Tait, Damien J Batstone,[Ulf Jeppsson](https://github.com/ulfjeppsson), Krist V Gernaey. The model is described in the following paper: [A plant-wide aqueous phase chemistry module describing pH variations and ion speciation/pairing in wastewater treatment process models](https://doi.org/10.1016/j.watres.2015.07.014). This version of the model is adapated to be run in Matlab 2019b.
 
 
 
