@@ -12,6 +12,6 @@ This implementation of ASM1, 2d and 3 account implemented in the BSM1 layout acc
 
 The previous implementation is upgraded with a aqueous phae chemistry models accounting for 1) ion pairing and 2) activity corrections. The latter allow to predict weak-acid base conditions and therefor pH. The main developers are :[Xavier Flores-Alsina](https://github.com/xfalsina), Christian Kazadi Mbamba, Kimberly Solon, Darko Vrecko, Stephan Tait, Damien J Batstone,[Ulf Jeppsson](https://github.com/ulfjeppsson), Krist V Gernaey. The model is described in the following paper: [A plant-wide aqueous phase chemistry module describing pH variations and ion speciation/pairing in wastewater treatment process models](https://doi.org/10.1016/j.watres.2015.07.014). This version of the model is adapated to be run in Matlab 2019b.
 
-
+[![ADM](https://img.shields.io/badge/DOWNLOAD%20ASM1%202d%203%20in%20BSM1%20with%20pH-990000?style=for-the-badge)](https://github.com/wwtmodels/Activated-Sludge-Models/releases/download/v2/ASM1.2d.3.in.BSM1_pH.zip) [![](https://img.shields.io/github/downloads/wwtmodels/Activated-Sludge-Models/v1/total?color=990000&label=Downloads&style=for-the-badge)](https://github.com/wwtmodels/Activated-Sludge-Models) 
 
 ![alt text](https://github.com/wwtmodels/wwtmodels.github.io/blob/main/logo.png)
