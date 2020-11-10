@@ -14,7 +14,7 @@ This version of the model is adapated to be run in Matlab 2019b (or newer).
 
 <strong>2. ASM1, 2d and 3 implemented in BSM1 (with pH calculations) </strong> 
 
-The previous implementation is upgraded with a aqueous phae chemistry models accounting for 1) ion pairing and 2) activity corrections. The latter allow to predict weak-acid base conditions and therefor pH. The main developers are :[Xavier Flores-Alsina](https://github.com/xfalsina), Christian Kazadi Mbamba, Kimberly Solon, Darko Vrecko, Stephan Tait, [Damien J Batstone](https://github.com/damienbatstone), [Ulf Jeppsson](https://github.com/ulfjeppsson), Krist V Gernaey. The model is described in the following paper: 
+The previous implementation is upgraded with a aqueous phae chemistry models accounting for 1) ion pairing and 2) activity corrections. The latter allow to predict weak-acid base conditions and therefor pH. The main developers are :[Xavier Flores-Alsina](https://github.com/xfalsina), Christian Kazadi Mbamba, [Kimberly Solon](https://github.com/KimberlySolon), Darko Vrecko, Stephan Tait, [Damien J Batstone](https://github.com/damienbatstone), [Ulf Jeppsson](https://github.com/ulfjeppsson), Krist V Gernaey. The model is described in the following paper: 
 
 [Flores-Alsina X, Kazadi-Mbama C., Solon K., Vrecko D., Tait S., Batstone D., Jeppsson U. and Gernaey K.V. (2015). A plant wide aqueous phase chemistry module describing pH variations and ion speciation/pairing in wastewater treatment models. Water Research, 85, 255-265](https://doi.org/10.1016/j.watres.2015.07.014). 
 
