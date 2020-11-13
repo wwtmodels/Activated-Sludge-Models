@@ -22,4 +22,4 @@ This version of the model is adapated to be run in Matlab 2019b (or newer).
 
 [![ADM](https://img.shields.io/badge/DOWNLOAD%20ASM1%202d%203%20in%20BSM1%20with%20pH-990000?style=for-the-badge)](https://github.com/wwtmodels/Activated-Sludge-Models/releases/download/v2/ASM1.2d.3.in.BSM1.pH.zip) [![](https://img.shields.io/github/downloads/wwtmodels/Activated-Sludge-Models/v2/total?color=990000&label=Downloads&style=for-the-badge)](https://github.com/wwtmodels/Activated-Sludge-Models) 
 
-![logo](logo.png)
+![logo](WWTMlogo.png)
