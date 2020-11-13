@@ -1,6 +1,6 @@
 # Activated-Sludge-Models
 
-This repository contains the different Activated Sludge Models implementations developed between [Lund University](https://www.iea.lth.se/) and [Technical University of Denmark](https://www.kt.dtu.dk/english/research/prosys). Different implementations are currently available 
+This repository contains the different Activated Sludge Models implementations developed between [Lund University](https://www.iea.lth.se/) and the [Technical University of Denmark](https://www.kt.dtu.dk/english/research/prosys).
 
 <strong>1. ASM1, 2d and 3 implemented in BSM1 </strong>  
 
