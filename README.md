@@ -8,7 +8,7 @@ This implementation of ASM1, 2d and 3 account implemented in the BSM1 layout acc
 
 [Flores-Alsina X., Gernaey K.V. and Jeppsson, U. (2012). Benchmarking biological nutrient removal in wastewater treatment plants: influence of mathematical model assumptions. Water Sci. Technol., 65 (8): 1496-1505](https://doi.org/10.2166/wst.2012.039). 
 
-This version of the model is adapated to be run in Matlab 2019b (or newer).
+This version of the model is adapted to be run in Matlab 2019b (or newer).
 
 [![ADM](https://img.shields.io/badge/DOWNLOAD%20ASM1%202d%203%20in%20BSM1-990000?style=for-the-badge)](https://github.com/wwtmodels/Activated-Sludge-Models/releases/download/v1/ASM1.2d.3.in.BSM1.zip) [![](https://img.shields.io/github/downloads/wwtmodels/Activated-Sludge-Models/v1/total?color=990000&label=Downloads&style=for-the-badge)](https://github.com/wwtmodels/Activated-Sludge-Models) 
 
