@@ -20,6 +20,16 @@ The previous implementation is upgraded with aqueous phase chemistry models acco
 
 This version of the model is adapted to be run in Matlab 2019b (or newer).
 
+[![ADM](https://img.shields.io/badge/DOWNLOAD%20ASM1%202d%203%20in%20BSM1%20with%20pH-990000?style=for-the-badge)](https://github.com/wwtmodels/Activated-Sludge-Models/releases/download/v3/ASM1.2d.3.pH.zip) [![](https://img.shields.io/github/downloads/wwtmodels/Activated-Sludge-Models/v2/total?color=990000&label=Downloads&style=for-the-badge)](https://github.com/wwtmodels/Activated-Sludge-Models) 
+
+<strong>3. ASM2d implemented in an industrial bio-reactor (with N2O emissions) </strong>
+
+The process kinetics and stoichiometry are adapted from the Activated Sludge Model No. 2d (ASM2d). The original mathematical structure was modified to incorporate ammonium oxidizing bacteria (AOB) inhibition by NO2− based on the general equations. To comprehensively capture N2O production, the model includes three biological N2O production pathways: 1) Nitrifier nitrification pathway (NN pathway), 2) Nitrifier denitrification pathway (ND pathway) and 3) Heterotrophic denitrification pathway (DEN pathway). The gas-liquid (G-L) transfer processes, are modeled differently across 1) anoxic and 2) aerobic stages. The Main developers are: The Main developers are: , and [Tianyu Lei](https://github.com/ulfjeppsson),  [Xavier Flores-Alsina](https://github.com/xfalsina), [Krist V. Gernaey](https://github.com/kristgernaey). The model is described in the following paper: 
+
+[Lei, T., Whale-Obrero, J., Larsen, S. B., Kjellberg, K., Gernaey, K. V., & Flores-Alsina, X. (2025). Dynamically predicting nitrous oxide emissions in a full-scale industrial activated sludge reactor under multiple aeration patterns and COD/N ratios. Water Research. 123379](https://doi.org/10.1016/j.watres.2025.123379). 
+
 [![ADM](https://img.shields.io/badge/DOWNLOAD%20ASM1%202d%203%20in%20BSM1%20with%20pH-990000?style=for-the-badge)](https://github.com/wwtmodels/Activated-Sludge-Models/releases/download/v2/ASM1.2d.3.pH.zip) [![](https://img.shields.io/github/downloads/wwtmodels/Activated-Sludge-Models/v2/total?color=990000&label=Downloads&style=for-the-badge)](https://github.com/wwtmodels/Activated-Sludge-Models) 
+
+
 
 ![logo](WWTMlogo.png)
