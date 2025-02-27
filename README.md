@@ -28,7 +28,7 @@ The process kinetics and stoichiometry are adapted from the Activated Sludge Mod
 
 [Lei, T., Whale-Obrero, J., Larsen, S. B., Kjellberg, K., Gernaey, K. V., & Flores-Alsina, X. (2025). Dynamically predicting nitrous oxide emissions in a full-scale industrial activated sludge reactor under multiple aeration patterns and COD/N ratios. Water Research. 123379](https://doi.org/10.1016/j.watres.2025.123379). 
 
-[![ADM](https://img.shields.io/badge/DOWNLOAD%20ASM1%202d%203%20in%20BSM1%20with%20pH-990000?style=for-the-badge)](https://github.com/wwtmodels/Activated-Sludge-Models/releases/download/v2/ASM1.2d.3.pH.zip) [![](https://img.shields.io/github/downloads/wwtmodels/Activated-Sludge-Models/v2/total?color=990000&label=Downloads&style=for-the-badge)](https://github.com/wwtmodels/Activated-Sludge-Models) 
+[![ADM](https://img.shields.io/badge/DOWNLOAD%20ASM1%202d%203%20in%20BSM1%20with%20pH-990000?style=for-the-badge)](https://github.com/wwtmodels/Activated-Sludge-Models/releases/download/v3/ASM2d_N2O.zip) [![](https://img.shields.io/github/downloads/wwtmodels/Activated-Sludge-Models/v3/total?color=990000&label=Downloads&style=for-the-badge)](https://github.com/wwtmodels/Activated-Sludge-Models) 
 
 
 
