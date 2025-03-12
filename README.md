@@ -30,6 +30,6 @@ The process kinetics and stoichiometry are adapted from the Activated Sludge Mod
 
 [![ADM](https://img.shields.io/badge/DOWNLOAD%20ASM2d%20with%20N2O-990000?style=for-the-badge)](https://github.com/wwtmodels/Activated-Sludge-Models/releases/download/v3/ASM2d_N2O_pHadjust.zip) [![](https://img.shields.io/github/downloads/wwtmodels/Activated-Sludge-Models/v3/total?color=990000&label=Downloads&style=for-the-badge)](https://github.com/wwtmodels/Activated-Sludge-Models) 
 
-
+This version of the model is adapted to be run in Matlab 2022b (or newer).
 
 ![logo](WWTMlogo.png)
